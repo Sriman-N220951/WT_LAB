@@ -1,0 +1,85 @@
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: yellow;
+}
+
+
+header {
+    background-color: blue;
+    color: white;
+    padding: 15px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.rgukt {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+
+#sri{
+width: 300px;
+height: 313px;
+float: left;
+
+}
+
+.sigma {
+    background-color: white;
+    padding: 80px 40px;
+    text-align: center;
+   
+}
+
+.sigma h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.sigma p {
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.me {
+    padding: 40px;
+    background-color:pink;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+
+footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
